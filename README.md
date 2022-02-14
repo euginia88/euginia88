@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @britzfox
+- 👋 Hi, I’m @euginia88
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Wirtschaftsinformatik (Business Informatics)
 - 💞️ I’m looking to collaborate on some cool projects
